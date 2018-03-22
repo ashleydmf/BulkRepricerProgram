@@ -1,0 +1,9 @@
+C:\Users\ashleyd\Documents\BulkRepricerProgram\BulkRepricer\bin\Debug\BulkRepricer.exe.config
+C:\Users\ashleyd\Documents\BulkRepricerProgram\BulkRepricer\bin\Debug\BulkRepricer.exe
+C:\Users\ashleyd\Documents\BulkRepricerProgram\BulkRepricer\bin\Debug\BulkRepricer.pdb
+C:\Users\ashleyd\Documents\BulkRepricerProgram\BulkRepricer\obj\Debug\BulkRepricer.csprojResolveAssemblyReference.cache
+C:\Users\ashleyd\Documents\BulkRepricerProgram\BulkRepricer\obj\Debug\BulkRepricer.InputForm.resources
+C:\Users\ashleyd\Documents\BulkRepricerProgram\BulkRepricer\obj\Debug\BulkRepricer.Properties.Resources.resources
+C:\Users\ashleyd\Documents\BulkRepricerProgram\BulkRepricer\obj\Debug\BulkRepricer.csproj.GenerateResource.Cache
+C:\Users\ashleyd\Documents\BulkRepricerProgram\BulkRepricer\obj\Debug\BulkRepricer.exe
+C:\Users\ashleyd\Documents\BulkRepricerProgram\BulkRepricer\obj\Debug\BulkRepricer.pdb
