@@ -7,3 +7,12 @@ C:\Users\ashleyd\Documents\BulkRepricerProgram\BulkRepricer\obj\Debug\BulkRepric
 C:\Users\ashleyd\Documents\BulkRepricerProgram\BulkRepricer\obj\Debug\BulkRepricer.csproj.GenerateResource.Cache
 C:\Users\ashleyd\Documents\BulkRepricerProgram\BulkRepricer\obj\Debug\BulkRepricer.exe
 C:\Users\ashleyd\Documents\BulkRepricerProgram\BulkRepricer\obj\Debug\BulkRepricer.pdb
+\\SERVER2011\RedirectedFolders\AshleyD\My Documents\BulkRepricerProgram\BulkRepricer\bin\Debug\BulkRepricer.exe.config
+\\SERVER2011\RedirectedFolders\AshleyD\My Documents\BulkRepricerProgram\BulkRepricer\bin\Debug\BulkRepricer.exe
+\\SERVER2011\RedirectedFolders\AshleyD\My Documents\BulkRepricerProgram\BulkRepricer\bin\Debug\BulkRepricer.pdb
+\\SERVER2011\RedirectedFolders\AshleyD\My Documents\BulkRepricerProgram\BulkRepricer\obj\Debug\BulkRepricer.csprojResolveAssemblyReference.cache
+\\SERVER2011\RedirectedFolders\AshleyD\My Documents\BulkRepricerProgram\BulkRepricer\obj\Debug\BulkRepricer.InputForm.resources
+\\SERVER2011\RedirectedFolders\AshleyD\My Documents\BulkRepricerProgram\BulkRepricer\obj\Debug\BulkRepricer.Properties.Resources.resources
+\\SERVER2011\RedirectedFolders\AshleyD\My Documents\BulkRepricerProgram\BulkRepricer\obj\Debug\BulkRepricer.csproj.GenerateResource.Cache
+\\SERVER2011\RedirectedFolders\AshleyD\My Documents\BulkRepricerProgram\BulkRepricer\obj\Debug\BulkRepricer.exe
+\\SERVER2011\RedirectedFolders\AshleyD\My Documents\BulkRepricerProgram\BulkRepricer\obj\Debug\BulkRepricer.pdb
